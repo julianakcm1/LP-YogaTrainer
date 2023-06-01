@@ -48,8 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :memo: Layout
 
-O layout foi inspirado nos seguintes:
-  - [Layout no Dribbble](https://dribbble.com/shots/20649526-Fitness-Landing-Page-Website-Design-business-web-site-designer)
+O layout foi inspirado no seguinte:
   - [Layout no UpLabs](https://www.uplabs.com/posts/yoga-trainer-giving-training-the-people-for-good-health-in-the-yoga-studio)
 
 </div>
