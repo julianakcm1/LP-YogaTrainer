@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/julianakcm1/BiscoitoDaSorte/assets/54086293/7fa3936b-8ccd-4881-a12f-37cc1ffbd30e" width=130 height=130>
-  
+<img src="https://github.com/julianakcm1/LP-YogaTrainer/assets/54086293/7a7489bf-3166-4afe-9812-737d40e7634f" width=130 height=130>
+
 # **Yoga Trainer**
 <b>Curso Explorer - Rocketseat - Land 9 - Desafio</b> <br>
 
