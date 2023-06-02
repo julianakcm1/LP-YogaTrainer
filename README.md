@@ -20,7 +20,7 @@
 
 ## :computer: Projeto
   
-Este projeto tem como objetivo o desenvolvimento de projetos pessoais, onde os seguintes pontos foram vistos:
+Este projeto tem como objetivo o desenvolvimento acerca do tema projetos pessoais, onde os seguintes pontos foram vistos:
   
 - Pontos de inspiração
 - Ferramentas para inspiração
