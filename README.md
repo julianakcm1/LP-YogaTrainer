@@ -14,6 +14,8 @@
   <a href="#-contato">Contato</a><br><br>
 </p>
 
+![Captura de tela de 2023-06-02 00-34-13](https://github.com/julianakcm1/LP-YogaTrainer/assets/54086293/7e9d85ab-3317-430c-b084-af8167831fb4)
+
 <div id="-projeto">
 
 ## :computer: Projeto
@@ -23,7 +25,7 @@ Este projeto tem como objetivo o desenvolvimento de projetos pessoais, onde os s
 - Pontos de inspiração
 - Ferramentas para inspiração
 - A importância de investir em projetos pessoais
-- Resolução de problemas
+- Resolução de problemas (dividir e conquistar)
 - Minimum Viable Product
 - Design Thinking
 
